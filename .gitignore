@@ -1,5 +1,5 @@
-
 *.exe
 backend/smarttech/__pycache__/settings.cpython-311.pyc
 backend/smarttech/__pycache__/__init__.cpython-311.pyc
 backend/smarttech/__init__.py
+node_modules/
