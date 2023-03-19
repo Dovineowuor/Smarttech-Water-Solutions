@@ -24,13 +24,13 @@ Copy code
 Create a .env file in the project root directory and add your OAuth0 and Firebase API keys:
 
 Copy code
-## OAuth0 Credentials
+# OAuth0 Credentials
     `CLIENT_ID=your-client-id
     CLIENT_SECRET=your-client-secret
     DOMAIN=your-domain.auth0.com
     API_AUDIENCE=your-audience`
 
-## Firebase Credentials
+# Firebase Credentials
     `FIREBASE_API_KEY=your-api-key
     FIREBASE_AUTH_DOMAIN=your-auth-domain
     FIREBASE_DATABASE_URL=your-database-url
